@@ -87,5 +87,4 @@ plt.show()
 ### Output Waveform:
 ![image](https://github.com/user-attachments/assets/34b470ed-8abf-486d-aae0-d1b2b610216f)
 ### Results:
-The experiment to implement QPSK (Quadrature Phase Shift Keying) modulation and demodulation was successfully performed using Python. The output matched the expected results, including accurate signal reconstruction and a correct constellation plot, confirming the theoretical working of QPSK. The Bit Error Rate (BER) analysis also aligned well with theoretical values under AWGN conditions, validating the effectiveness of the modulation scheme.
-### Hardware experiment output waveform:
+Thus , a Python program for the modulation and demodulation of QPSK are verified
